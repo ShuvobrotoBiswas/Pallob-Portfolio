@@ -13,7 +13,7 @@
 
         <q-toolbar-title> Pallob_Vau </q-toolbar-title>
 
-        <div>Vaw v{{ $q.version }}</div>
+        <div>Vau v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
