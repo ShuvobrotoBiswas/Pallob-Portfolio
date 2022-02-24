@@ -13,7 +13,7 @@
 
         <q-toolbar-title> Pallob_Vau </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Vaw v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
@@ -39,48 +39,27 @@
 import EssentialLink from "components/EssentialLink.vue";
 
 const linksList = [
+
   {
-    title: "Docs",
-    caption: "quasar.dev",
-    icon: "school",
-    link: "https://quasar.dev",
-  },
-  {
-    title: "Github",
-    caption: "github.com/quasarframework",
+    title: "Instagram",
+    caption: "devil_psycho18",
     icon: "code",
-    link: "https://github.com/quasarframework",
+    link: "https://www.instagram.com/devil_psycho18/",
   },
-  {
-    title: "Discord Chat Channel",
-    caption: "chat.quasar.dev",
-    icon: "chat",
-    link: "https://chat.quasar.dev",
-  },
-  {
-    title: "Forum",
-    caption: "forum.quasar.dev",
-    icon: "record_voice_over",
-    link: "https://forum.quasar.dev",
-  },
+
   {
     title: "Twitter",
-    caption: "@quasarframework",
+    caption: "@Prattush_Vau/",
     icon: "rss_feed",
     link: "https://twitter.quasar.dev",
   },
   {
     title: "Facebook",
-    caption: "@QuasarFramework",
+    caption: "@Pallob.Vau71",
     icon: "public",
-    link: "https://facebook.quasar.dev",
+    link: "https://www.facebook.com/Pallob.Vau71",
   },
-  {
-    title: "Quasar Awesome",
-    caption: "Community Quasar projects",
-    icon: "favorite",
-    link: "https://awesome.quasar.dev",
-  },
+
 ];
 
 import { defineComponent, ref } from "vue";
