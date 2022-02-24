@@ -1,6 +1,6 @@
 <template>
   <div class="text-h3 q-pa-md absolute-center">
-    Hi Pallob
+    Hey Man
     <q-btn
           color="black"
           icon="collections_bookmark"
